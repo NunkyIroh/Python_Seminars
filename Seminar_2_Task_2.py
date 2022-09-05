@@ -16,5 +16,6 @@
 #     a += 1
 #     print (res)
 
+
 for i in range(5):
     print((-3) ** i, end=" ")
